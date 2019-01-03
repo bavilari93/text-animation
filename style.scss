@@ -28,6 +28,7 @@ body {
     overflow: hidden;
 
     >* {
+    margin-top: 2rem;
         &:first-child {
             animation: show 5s linear infinite;
         }
@@ -48,7 +49,7 @@ body {
             color: #fff;
             padding: 4px 12px;
             height: 45px;
-            margin-bottom: 45px;
+            margin-bottom: 13px;
             display: inline-block;
         }
     }
